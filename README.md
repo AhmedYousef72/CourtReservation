@@ -1,4 +1,4 @@
-# SportReserve 🏀⚽🎾
+# CourtReservation 🏀⚽🎾
 
 A comprehensive Flutter application for booking and managing sports courts and facilities. Users can browse available courts, make reservations, and manage their bookings with an intuitive and modern interface.
 
